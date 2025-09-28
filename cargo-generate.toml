@@ -1,0 +1,5 @@
+[template]
+# 忽略替换的文件，避免 {{ }} 被误处理
+exclude = [
+    "cliff.toml"
+]
